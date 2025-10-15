@@ -9,3 +9,7 @@ This is added in the remote repository
 
 " I'm adding from the Branch A "
 
+
+
+" Adding new branch B, for my Understanding"
+
