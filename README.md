@@ -11,5 +11,8 @@ This is added in the remote repository
 
 
 
-" Adding new branch B, for my Understanding"
+
+" Branch B is taken as new branch. with consideration to branch a"
+
+
 
