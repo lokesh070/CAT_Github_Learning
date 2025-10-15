@@ -9,3 +9,9 @@ This is added in the remote repository
 
 " I'm adding from the Branch A "
 
+
+
+---------
+
+" Branch B is taken as new branch"
+
